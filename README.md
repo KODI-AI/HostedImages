@@ -23,8 +23,6 @@ Raw URL form:
 Missing on purpose — a face nobody picked is worse than no face, and a blank
 entry renders as Discord's default, which honestly says "not supplied yet":
 
-* **kuffy2 / kuffy3** — one shared swarm face, distinct from Kuffy's own. Kuffy
-  is picking it; he has been asked and has not answered.
 * **klaudejr** — Klaude-JR and Klaude have not agreed on one.
 * **kodex** — never supplied one.
 
